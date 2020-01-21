@@ -5,3 +5,4 @@ def square_array(array)
    i ** 2
  end
 end
+{ |i| arr << i ** 2 }
